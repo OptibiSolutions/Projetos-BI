@@ -3,5 +3,8 @@ Ao rodar o código ele vai criar uma arquivo csv chamado 'dados_aleatorios.csv'.
 
 Não esqueça de instalar as bibliotecas:
 
+```ruby
 pip install pandas
+
 pip install faker
+```
